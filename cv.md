@@ -1,9 +1,9 @@
 # ANDREI NOVIKAU 
-#### ![](images/CV%20Photo.jpg)
-####### **Email: novicov-andrey@yandex.ru**
-####### **DISCORD: andrey(@nov1cov)**
-####### **I am seeking employment with a company where I can learning and developing.**
-##### Personal qualities:
+![](images/CV%20Photo.jpg)
+###### **Email: novicov-andrey@yandex.ru**
+###### **DISCORD: andrey(@nov1cov)**
+###### **I am seeking employment with a company where I can learning and developing.**
+##### * Personal qualities:
 ###### *Versatile*
 ###### *Highly Dependable*
 ###### *Disciplined*
