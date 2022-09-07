@@ -1,5 +1,5 @@
 # ANDREI NOVIKAU 
-![](images/CV%20Photo.jpg){ width=300 }
+![](images/CV%20Photo.jpg)
 ###### **Email: novicov-andrey@yandex.ru**
 ###### **DISCORD: andrey(@nov1cov)**
 ###### **I am seeking employment with a company where I can learning and developing.**
